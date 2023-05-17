@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2268
-
+#wget https://raw.githubusercontent.com/chenxqiyu/chenx/master/configdalu.json
 # The files installed by the script conform to the Filesystem Hierarchy Standard:
 # https://wiki.linuxfoundation.org/lsb/fhs
 
